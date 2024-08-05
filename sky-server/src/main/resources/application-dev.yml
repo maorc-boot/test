@@ -5,4 +5,9 @@ sky:
     port: 3306
     database: sky_take_out
     username: root
-    password: root
+    password: 1234
+  alioss:
+    endpoint: https://oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5tDRKaU3n6YqBvCitPK1
+    access-key-secret: Z6BkmN2VCPzFvCm3Sl8xIhU9GNiZNl
+    bucket-name: web-mrc
